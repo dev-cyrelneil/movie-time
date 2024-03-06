@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dev-cyrelneil/movie-time.git/static/css/main.ccfd3975.css",
+    "main.js": "/dev-cyrelneil/movie-time.git/static/js/main.d7b59cb6.js",
+    "static/js/453.f10c5172.chunk.js": "/dev-cyrelneil/movie-time.git/static/js/453.f10c5172.chunk.js",
+    "static/media/logo.svg": "/dev-cyrelneil/movie-time.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dev-cyrelneil/movie-time.git/index.html",
+    "static/media/search.svg": "/dev-cyrelneil/movie-time.git/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.ccfd3975.css.map": "/dev-cyrelneil/movie-time.git/static/css/main.ccfd3975.css.map",
+    "main.d7b59cb6.js.map": "/dev-cyrelneil/movie-time.git/static/js/main.d7b59cb6.js.map",
+    "453.f10c5172.chunk.js.map": "/dev-cyrelneil/movie-time.git/static/js/453.f10c5172.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfd3975.css",
+    "static/js/main.d7b59cb6.js"
+  ]
+}
